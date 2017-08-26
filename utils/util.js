@@ -1,5 +1,5 @@
-  var moment = require('../lib/moment');
-  var us = require('../lib/underscore');
+var moment = require('../lib/moment');
+var us = require('../lib/underscore');
 
 function formatTime(date) {
   var year = date.getFullYear();

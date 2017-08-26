@@ -1,5 +1,3 @@
-
-
 var _fn,
   taskService = require('../../common/js/service').taskService,
   dateService = require('../../common/js/service').dateService,

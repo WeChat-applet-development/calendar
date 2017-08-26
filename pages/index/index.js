@@ -6,8 +6,7 @@ var us = require('../../lib/underscore');
 var moment = require('../../lib/moment');
 var calendar = require('../../utils/util').calendar;
 Page({
-  data: {
-  },
+  data: {},
   addTask:function(e){
     wx.navigateTo({//youbug
       url:'../create/create?pageType=create'
